@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- nextpresso 1.8 -->
 <configurationParameters maximunNumberOfInstancesAllowedToRunSimultaneouslyInOneParticularStep="4">
 	<extraPathsRequired></extraPathsRequired>
 	<fastQCpath>/home/ograna/SOFTWARE/FastQC_v0.10.1</fastQCpath>	

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- nextpresso 1.8 -->
 <experiment projectName="RNAseq_KOvsWT" workspace="/mnt/bigbrother/ograna/BORRAR_PRUEBA/Analysis"
 referenceSequence="/mnt/supertocho/ograna/REFERENCES/Homo_sapiens/UCSC/hg19/Sequence/BowtieIndex/genome.fa"
 GTF="/mnt/supertocho/ograna/REFERENCES/Homo_sapiens/UCSC/hg19/Annotation/Genes/genes.gtf" pairedEnd="false" fileWithChecksumCodesToValidate="">
